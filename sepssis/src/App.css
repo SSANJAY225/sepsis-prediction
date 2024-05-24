@@ -1,0 +1,17 @@
+.contact__container{
+  display: flex;
+  flex-direction: column;
+  border-radius: 15px;
+  border: 1px solid green;
+  /* border-bottom: 1px; */
+}
+input{
+  padding: 5px;
+  margin: 5px;
+  border-radius: 10px;
+}
+a{
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+}
